@@ -1,0 +1,9 @@
+C:\Users\Tom\source\repos\CS386 - 18APCS3 - LAB\Student List v2\Student List v2\bin\Debug\Student List v2.exe.config
+C:\Users\Tom\source\repos\CS386 - 18APCS3 - LAB\Student List v2\Student List v2\bin\Debug\Student List v2.exe
+C:\Users\Tom\source\repos\CS386 - 18APCS3 - LAB\Student List v2\Student List v2\bin\Debug\Student List v2.pdb
+C:\Users\Tom\source\repos\CS386 - 18APCS3 - LAB\Student List v2\Student List v2\obj\Debug\Student List v2.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\CS386 - 18APCS3 - LAB\Student List v2\Student List v2\obj\Debug\Student_List_v2.StudentManagement.resources
+C:\Users\Tom\source\repos\CS386 - 18APCS3 - LAB\Student List v2\Student List v2\obj\Debug\Student_List_v2.Properties.Resources.resources
+C:\Users\Tom\source\repos\CS386 - 18APCS3 - LAB\Student List v2\Student List v2\obj\Debug\Student List v2.csproj.GenerateResource.cache
+C:\Users\Tom\source\repos\CS386 - 18APCS3 - LAB\Student List v2\Student List v2\obj\Debug\Student List v2.exe
+C:\Users\Tom\source\repos\CS386 - 18APCS3 - LAB\Student List v2\Student List v2\obj\Debug\Student List v2.pdb
